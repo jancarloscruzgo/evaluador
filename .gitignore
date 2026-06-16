@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+env/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Imagenes generadas por matplotlib
+*.png
+
+# Basura del sistema
+.DS_Store
+._*
+Thumbs.db
+
+# Carpetas de audios de prueba (cada profe usa los suyos)
+TEST/
+TEST-8.3/
