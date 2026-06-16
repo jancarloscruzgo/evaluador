@@ -14,6 +14,6 @@ __pycache__/
 ._*
 Thumbs.db
 
-# Carpetas de audios de prueba (cada profe usa los suyos)
+# Carpetas locales de audios de prueba
 TEST/
 TEST-8.3/
